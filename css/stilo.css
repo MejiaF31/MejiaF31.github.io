@@ -22,15 +22,10 @@ body {
     
     .navbar {
       display: flex;
-      margin-right: 10px;
-      position: static;
-      top: 80px;
-      left: 0px;
+      position: static,center;
       padding: 0px;
       margin: auto;
-      width: 90%;
-      margin-left: 80px;
-      margin-right: 400px;
+      width:fit-content ;
       background-color: #3f3f3f;
     }
     .navbar a {

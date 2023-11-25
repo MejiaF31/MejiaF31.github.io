@@ -1,6 +1,5 @@
 body {
   margin: 20px;
- padding: 10px;
   background-color: #ffdd90;
   background-image: url("Papel tapis1.jpg");
   font-family: Arial, sans-serif;
@@ -20,7 +19,7 @@ top: 0px;
 left: 0px;
 padding: 0px;
 margin: 10px;
-width: auto;
+width: fit-content;
 
 
 }
@@ -28,14 +27,12 @@ width: auto;
 .navbar {
   display: flex;
   margin-right: 10px;
-  position: static;
-  top: 115px;
+  position: static, center;
   left: 0px;
   padding: 0px;
   margin: auto;
-  width: 90%;
-  margin-left: 80px;
-  margin-right: 400px;
+  width:fit-content ;
+  
   background-color: #3f3f3f;
 }
 .navbar a {
@@ -59,18 +56,14 @@ h2{
   position: static;
   padding: 0px;
   margin: 10px;
-  width: 100%;
+  width: fit-content;
   }
   .container {
    position: center;
    padding: 2px;
    text-align: center;
 }
-.container1 {
-  position: center;
 
-  padding: 2px;
-}
 h3{
 font-size: 30px ;
 color: purple;
@@ -130,4 +123,9 @@ button {
   position: center;
 
   padding: 2px;
+}
+
+table{
+  position:center, fixed ;
+  width: fit-content;
 }
