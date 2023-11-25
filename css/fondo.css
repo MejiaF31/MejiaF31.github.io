@@ -3,6 +3,8 @@ body {
   background-color: #ffdd90;
   background-image: url("Papel tapis1.jpg");
   font-family: Arial, sans-serif;
+ position:  relative;
+
 }
 fieldset {
  
@@ -19,7 +21,7 @@ top: 0px;
 left: 0px;
 padding: 0px;
 margin: 10px;
-width: fit-content;
+width: 100%;
 
 
 }
@@ -56,7 +58,7 @@ h2{
   position: static;
   padding: 0px;
   margin: 10px;
-  width: fit-content;
+  width: 100%;
   }
   .container {
    position: center;
