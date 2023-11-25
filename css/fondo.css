@@ -1,0 +1,142 @@
+body {
+  background-color: #ffdd90;
+  background-image: url("Papel tapis1.jpg");
+  font-family: Arial, sans-serif;
+}
+fieldset {
+ 
+  background-image: url("papeltapis2.jpg");
+}
+h1 {
+font-size: 65px ;
+color: purple;
+font-weight: bold;
+margin-left: 100px;
+margin-right: 100px;
+position: fixed;
+top: 0px;
+left: 0px;
+padding: 0px;
+margin: 10px;
+width: 100%;
+
+
+}
+
+.navbar {
+  display: flex;
+  margin-right: 10px;
+  position: fixed;
+  top: 115px;
+  left: 0px;
+  padding: 0px;
+  margin: auto;
+  width: 90%;
+  margin-left: 80px;
+  margin-right: 400px;
+  background-color: #3f3f3f;
+}
+.navbar a {
+ 
+  display: block;
+  padding: 20px 20px;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.navbar a:hover {
+  background: #050505;
+}
+h2{
+  
+  font-size: 30px ;
+  color: purple;
+  font-style: Arial black;
+  font-weight: bold;
+  margin-left: 100px;
+  margin-right: 100px;
+  position: fixed;
+  top: 70px;
+  left: 0px;
+  padding: 0px;
+  margin: 10px;
+  width: 100%;
+  }
+  .container {
+   position: center;
+   margin-left: 30px;
+   margin-right: 150px;
+   margin-top: 180px;
+   padding: 2px;
+   text-align: center;
+}
+.container1 {
+  position: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 220px;
+  padding: 2px;
+}
+h3{
+font-size: 30px ;
+color: purple;
+}
+b{
+color:purple;
+font-style: Arial black;
+}
+a{
+color: red;
+}
+h4{
+font-size: 30px ;
+color: purple;
+}
+h5{
+font-size: 30px ;
+color: purple;
+}
+h6{
+font-size: 30px ;
+color: blue;
+}
+a.b{
+color: green;
+}
+legend{
+font-size: 30 ;
+ background-color: white;
+}
+p{
+font-size:stromg;
+font-size: 20 ;
+}
+li{
+font-size: 18 ;
+}
+.input-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+#productos .producto {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.three {
+  position: center;
+  margin-left: 10px;
+  margin-right: 150px;
+  margin-top: 50px;
+  padding: 2px;
+}
